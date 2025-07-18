@@ -12,4 +12,4 @@ Im currently working toward my IT degree and building hands-on experience in cyb
 
 -Build a Capture the Flag (CFT) walkthorugh
 
--Prepare for Secuirty+ certification\n
+-Prepare for Secuirty+ certification
