@@ -1,12 +1,12 @@
-# Cybersecurity-Lab
+# Cybersecurity-Lab\n
 Welcome to my personal cybersecurity home lab!
 Im currently working toward my IT degree and building hands-on experience in cybersecuirty through home labs, virtual machines, and platforms like TryHackMe.
 
-## Tools I Use
+## Tools I Use\n
 
-## Projects In Progress
+## Projects In Progress\n
 
-## Goalsn/
--Complete TryHackMe rooms weekly/n
--Build a Capture the Flag (CFT) walkthorugh/n
--Prepare for Secuirty+ certificationn/
+## Goals\n
+-Complete TryHackMe rooms weekly\n
+-Build a Capture the Flag (CFT) walkthorugh\n
+-Prepare for Secuirty+ certification\n
