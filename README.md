@@ -6,7 +6,7 @@ Im currently working toward my IT degree and building hands-on experience in cyb
 
 ## Projects In Progress
 
-## Goals
--Complete TryHackMe rooms weekly 
--Build a Capture the Flag (CFT) walkthorugh
--Prepare for Secuirty+ certification
+## Goalsn/
+-Complete TryHackMe rooms weekly/n
+-Build a Capture the Flag (CFT) walkthorugh/n
+-Prepare for Secuirty+ certificationn/
