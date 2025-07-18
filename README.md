@@ -1,4 +1,4 @@
-# Cybersecurity-Lab\n
+# Cybersecurity-Lab
 Welcome to my personal cybersecurity home lab!
 Im currently working toward my IT degree and building hands-on experience in cybersecuirty through home labs, virtual machines, and platforms like TryHackMe.
 
